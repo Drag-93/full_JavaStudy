@@ -1,0 +1,21 @@
+/.metadata/
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+
+# Build/Target
+bin/
+target/
+build/
+dist/
+
+# Log files
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
